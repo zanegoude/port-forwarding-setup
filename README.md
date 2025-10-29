@@ -20,3 +20,7 @@ This tutorial outlines the steps required to setup and configure port forwarding
 <h2>Prerequisites</h2>
 
 - Modem and/or Router Username and Password
+
+<h2>Setup Porcedure</h2>
+
+<h3>Step 1:</h3> 
