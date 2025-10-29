@@ -7,8 +7,12 @@ This tutorial outlines the steps required to setup and configure port forwarding
 
 <h2>Environments and Technologies Used</h2>
 
-- 
-
+- Chrome (Web Browser for managing Router/Modem)
+- Command Prompt (Windows CMD)
+- Router Hardware
+- Modem Hardware
+- Port Forwarding
+  
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
