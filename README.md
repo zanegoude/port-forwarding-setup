@@ -9,7 +9,6 @@ This tutorial outlines the steps required to setup and configure port forwarding
 
 - 
 
-<h2>Environments Used </h2>
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
