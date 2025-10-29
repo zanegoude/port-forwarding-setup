@@ -3,7 +3,7 @@
 </p>
 
 <h1>Port Forwarding: Setup and Configuration</h1>
-This tutorial outlines the steps required to setup and configure port forwarding on a network<br />
+This tutorial outlines the steps required to setup and configure port forwarding on a local network<br />
 
 <h2>Environments and Technologies Used</h2>
 
