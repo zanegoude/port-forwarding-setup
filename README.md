@@ -3,7 +3,7 @@
 </p>
 
 <h1>Port Forwarding: Setup and Configuration</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the steps required to setup port forwarding on a network<br />
 
  ### [YouTube Demonstration](https://www.youtube.com)
 
