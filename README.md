@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/07a5ebb0-51c9-4de2-8f40-5fb1ffa2ee1b"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
+<h1>Port Forwarding: Setup and Configuration</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
  ### [YouTube Demonstration](https://www.youtube.com)
