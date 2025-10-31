@@ -93,6 +93,5 @@ This tutorial outlines the steps required to setup and configure port forwarding
 </br>
 
 <h3>Congrats! You’ve set up Port Forwarding on a dual-NAT network.</h3>
-<img width="50%" height="50%" alt="Port Forward List" src="https://github.com/user-attachments/assets/0c5d302f-3cb8-4b24-b101-717e6608f7fe" />
-
+<img width="50%" height="50%" alt="Port_Forward_List" src="https://github.com/user-attachments/assets/132f4cd1-ba3a-4cb1-a531-409b8121cce2" />
 
