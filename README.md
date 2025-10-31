@@ -65,7 +65,7 @@ This tutorial outlines the steps required to setup and configure port forwarding
 
 <h3>Congrats! You have successfully made a port forward rule on your router/modem.</h3>
 
-<br><h3>If you’re running a dual-NAT setup, you aren’t done yet.</h3></br>
+<br><h3>If you’re running a dual-NAT setup, you aren’t finished yet.</h3></br>
 
 <h3>Step 5: Finding Your Other Default Gateway</h3>
 
