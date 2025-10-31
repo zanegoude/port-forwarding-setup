@@ -3,8 +3,8 @@
 </p>
 
 <h1>Port Forwarding: Setup and Configuration</h1>
-This tutorial outlines the steps required to setup and configure port forwarding on a local network.<br
-This tutorial with also showcase how to port forward on a dual-NAT setup./>
+This tutorial outlines the steps required to setup and configure port forwarding on a local network.
+<br> This tutorial with also showcase how to port forward on a dual-NAT setup.</br>
 
 <h2>Environments and Technologies Used</h2>
 
