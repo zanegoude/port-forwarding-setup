@@ -29,7 +29,8 @@ This tutorial outlines the steps required to setup and configure port forwarding
 - To find the Default Gateway, open the Start menu, type “CMD,” and open Command Prompt.
 - Once in the Command Prompt, type the command “ipconfig” and press Enter.
 - Locate the Network Adapter that is currently in use, and note down the Default Gateway.
-  >
+  > <img width="50%" height="50%" alt="CMD - ipconfig" src="https://github.com/user-attachments/assets/02734df0-407c-4b6c-a0bf-e559efbbe240" />
+
 
   </br>
 
@@ -37,7 +38,7 @@ This tutorial outlines the steps required to setup and configure port forwarding
 
 - To open the Router/Modem Admin Panel, open any web browser, and type the Default Gateway address into the Address Bar at the top of your browser.
 - When prompted, enter the login credentials for your router/modem and press Enter.
-  >
+  > <img width="50%" height="50%" alt="Router - Login" src="https://github.com/user-attachments/assets/b9ca4cc2-efee-4cfa-99a7-70f562074957" />
 
 </br>
 
@@ -46,7 +47,9 @@ This tutorial outlines the steps required to setup and configure port forwarding
 - Every router/modem has a different layout, so finding port forwarding isn’t something that can be directly guided to in a generalized tutorial like this.
 - Common places where port forwarding can be found include: advanced, administration, firewall, or security.
 - Once you’ve found the Port Forwarding tab, enter it.
-  >
+  > <img width="50%" height="50%" alt="Router - Port Forwarding Tab" src="https://github.com/user-attachments/assets/f9113343-6496-48e6-9262-b80133ec1a6d" />
+
+
 
 </br>
 
@@ -59,11 +62,12 @@ This tutorial outlines the steps required to setup and configure port forwarding
 - Pick the external port(s) for your desired service.
 - Select or input the IPv4 address of the device on which the service resides.
 - Once done, click “Apply.”
-  >
+  > <img width="50%" height="50%" alt="Router - Service Configuration" src="https://github.com/user-attachments/assets/a66cd6b9-9495-4f90-9cd1-4b9390afabe4" />
+
 
 </br>
 
-<h3>Congrats! You have successfully made a port forward rule on your router/modem.</h3>
+<h3>You have successfully made a port forward rule on your router/modem.</h3>
 
 <br><h3>If you’re running a dual-NAT setup, you aren’t finished yet.</h3></br>
 
@@ -74,18 +78,21 @@ This tutorial outlines the steps required to setup and configure port forwarding
 - In CMD, input the command “tracert 8.8.8.8” and press Enter.
 - The first two lines of the trace indicate the two Default Gateways on a dual-NAT setup.
 - Note down the other Default Gateway.
-  >
+  > <img width="50%" height="50%" alt="CMD - tracert" src="https://github.com/user-attachments/assets/93de4eeb-49f1-44c0-8941-9e47c1681812" />
+
 
   </br>
 
 <h3>Step 6: Port Forwarding on the Second Gateway</h3>
 
 - Using the new Default Gateway, follow steps 2-4 again, inputting all of the same service rule configurations as the first gateway.
-  >
-  >
+  > <img width="50%" height="50%" alt="Modem - Login" src="https://github.com/user-attachments/assets/1912dc87-7c5e-4638-b511-b719f6329548" />
+  > <img width="50%" height="50%" alt="Modem - Port Forwarding" src="https://github.com/user-attachments/assets/87889dc4-9d16-4e07-8e64-721f3ebda4a5" />
+
 
 </br>
 
 <h3>Congrats! You’ve set up Port Forwarding on a dual-NAT network.</h3>
+<img width="50%" height="50%" alt="Port Forward List" src="https://github.com/user-attachments/assets/0c5d302f-3cb8-4b24-b101-717e6608f7fe" />
 
 
