@@ -62,7 +62,8 @@ This tutorial outlines the steps required to setup and configure port forwarding
 - Pick the external port(s) for your desired service.
 - Select or input the IPv4 address of the device on which the service resides.
 - Once done, click “Apply.”
-  > <img width="50%" height="50%" alt="Router - Service Configuration" src="https://github.com/user-attachments/assets/a66cd6b9-9495-4f90-9cd1-4b9390afabe4" />
+  > <img width="50%" height="50%" alt="Router - Service Configuration" src="https://github.com/user-attachments/assets/d3592e78-6ee0-4d96-82cc-f57971e676e3" />
+
 
 
 </br>
@@ -86,8 +87,11 @@ This tutorial outlines the steps required to setup and configure port forwarding
 <h3>Step 6: Port Forwarding on the Second Gateway</h3>
 
 - Using the new Default Gateway, follow steps 2-4 again, inputting all of the same service rule configurations as the first gateway.
-  > <img width="50%" height="50%" alt="Modem - Login" src="https://github.com/user-attachments/assets/1912dc87-7c5e-4638-b511-b719f6329548" />
-  > <img width="50%" height="50%" alt="Modem - Port Forwarding" src="https://github.com/user-attachments/assets/87889dc4-9d16-4e07-8e64-721f3ebda4a5" />
+  > <img width="50%" height="50%" alt="Modem - Login" src="https://github.com/user-attachments/assets/26c8abc6-e7d7-4caf-82ef-ef40c8cb836c" />
+
+  > <img width="50%" height="50%" alt="Modem - Port Forwarding" src="https://github.com/user-attachments/assets/f92079a6-14ce-481b-87b6-fd6e8afbed0f" />
+
+
 
 
 </br>
