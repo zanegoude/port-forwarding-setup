@@ -29,7 +29,7 @@ This tutorial outlines the steps required to setup and configure port forwarding
 - To find the Default Gateway, open the Start menu, type “CMD,” and open Command Prompt.
 - Once in the Command Prompt, type the command “ipconfig” and press Enter.
 - Locate the Network Adapter that is currently in use, and note down the Default Gateway.
-  > <img alt="CMD - ipconfig" src="https://github.com/user-attachments/assets/bebce45d-0d70-478e-96e2-6039ed04b9cf"/>
+  >
 
   </br>
 
@@ -37,4 +37,55 @@ This tutorial outlines the steps required to setup and configure port forwarding
 
 - To open the Router/Modem Admin Panel, open any web browser, and type the Default Gateway address into the Address Bar at the top of your browser.
 - When prompted, enter the login credentials for your router/modem and press Enter.
+  >
+
+</br>
+
+<h3>Step 3: Locating Port Forwarding For Your Router/Modem</h3>
+
+- Every router/modem has a different layout, so finding port forwarding isn’t something that can be directly guided to in a generalized tutorial like this.
+- Common places where port forwarding can be found include: advanced, administration, firewall, or security.
+- Once you’ve found the Port Forwarding tab, enter it.
+  >
+
+</br>
+
+<h3>Step  4: Service Rule Configuration</h3>
+
+- Depending on your router/modem, you may need to click a button before you can input a service rule.
+- Title the rule an appropriate name.
+- Pick the protocol(s) for your desired service.
+- Pick the internal port(s) for your desired service.
+- Pick the external port(s) for your desired service.
+- Select or input the IPv4 address of the device on which the service resides.
+- Once done, click “Apply.”
+  >
+
+</br>
+
+<h3>Congrats! You have successfully made a port forward rule on your router/modem.</h3>
+
+<br><h3>If you’re running a dual-NAT setup, you aren’t done yet.</h3></br>
+
+<h3>Step 5: Finding Your Other Default Gateway</h3>
+
+- If you are running a dual-NAT setup, you will need to find the other Default Gateway on your network.
+- To find the other Default Gateway, open Command Prompt again.
+- In CMD, input the command “tracert 8.8.8.8” and press Enter.
+- The first two lines of the trace indicate the two Default Gateways on a dual-NAT setup.
+- Note down the other Default Gateway.
+  >
+
+  </br>
+
+<h3>Step 6: Port Forwarding on the Second Gateway</h3>
+
+- Using the new Default Gateway, follow steps 2-4 again, inputting all of the same service rule configurations as the first gateway.
+  >
+  >
+
+</br>
+
+<h3>Congrats! You’ve set up Port Forwarding on a dual-NAT network.</h3>
+
 
