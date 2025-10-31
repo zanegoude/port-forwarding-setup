@@ -24,4 +24,17 @@ This tutorial outlines the steps required to setup and configure port forwarding
 
 <h2>Setup Porcedure</h2>
 
-<h3>Step 1:</h3> 
+<h3>Step 1: Finding the Default Gateway</h3> 
+
+- To find the Default Gateway, open the Start menu, type “CMD,” and open Command Prompt.
+- Once in the Command Prompt, type the command “ipconfig” and press Enter.
+- Locate the Network Adapter that is currently in use, and note down the Default Gateway.
+  > <img alt="CMD - ipconfig" src="https://github.com/user-attachments/assets/bebce45d-0d70-478e-96e2-6039ed04b9cf"/>
+
+  </br>
+
+<h3>Step 2: Opening the Router/Modem Admin Panel</h3>
+
+- To open the Router/Modem Admin Panel, open any web browser, and type the Default Gateway address into the Address Bar at the top of your browser.
+- When prompted, enter the login credentials for your router/modem and press Enter.
+
