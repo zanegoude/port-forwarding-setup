@@ -22,7 +22,7 @@ This tutorial outlines the steps required to setup and configure port forwarding
 
 - Modem and/or Router Username and Password
 
-<h2>Setup Porcedure</h2>
+<h2>Setup Procedure</h2>
 
 <h3>Step 1: Finding the Default Gateway</h3> 
 
